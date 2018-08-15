@@ -1,0 +1,33 @@
+﻿{
+	"version": 1533294689,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/tiledbackground.png",
+		"images/player-sheet0.png",
+		"images/small-sheet0.png",
+		"images/big-sheet0.png",
+		"images/particles.png",
+		"images/bullet-sheet0.png",
+		"images/particles2.png",
+		"images/end-sheet0.png",
+		"media/background.m4a",
+		"media/background.ogg",
+		"media/lose music 3 - 2.m4a",
+		"media/lose music 3 - 2.ogg",
+		"media/bomb.ogg",
+		"media/lazer fire 1.ogg",
+		"media/explosion 2.ogg",
+		"media/squaremotif1.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"slkscr-webfont.woff",
+		"slkscr-webfont.woff2",
+		"stylesheet.css"
+	]
+}
